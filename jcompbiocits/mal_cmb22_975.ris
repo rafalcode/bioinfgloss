@@ -1,0 +1,26 @@
+
+
+
+TY  - JOUR
+T1  - An Efficient Algorithm for the Contig Ordering Problem under Algebraic Rearrangement Distance
+AU  - Lu, Chin Lung
+Y1  - 2015/08/06
+PY  - 2015
+DA  - 2015/11/01
+N1  - doi: 10.1089/cmb.2015.0073
+DO  - 10.1089/cmb.2015.0073
+T2  - Journal of Computational Biology
+JF  - Journal of Computational Biology
+JO  - Journal of Computational Biology
+SP  - 975
+EP  - 987
+VL  - 22
+IS  - 11
+PB  - Mary Ann Liebert, Inc., publishers
+N2  - Abstract Assembling a genome from short reads currently obtained by next-generation sequencing techniques often results in a collection of contigs, whose relative position and orientation along the genome being sequenced are unknown. Given two sets of contigs, the contig ordering problem is to order and orient the contigs in each set such that the genome rearrangement distance between the resulting sets of ordered and oriented contigs is minimized. In this article, we utilize the permutation groups in algebra to propose a near-linear time algorithm for solving the contig ordering problem under algebraic rearrangement distance, where the algebraic rearrangement distance between two sets of ordered and oriented contigs is the minimum weight of applicable rearrangement operations required to transform one set into the other.
+AB  - Abstract Assembling a genome from short reads currently obtained by next-generation sequencing techniques often results in a collection of contigs, whose relative position and orientation along the genome being sequenced are unknown. Given two sets of contigs, the contig ordering problem is to order and orient the contigs in each set such that the genome rearrangement distance between the resulting sets of ordered and oriented contigs is minimized. In this article, we utilize the permutation groups in algebra to propose a near-linear time algorithm for solving the contig ordering problem under algebraic rearrangement distance, where the algebraic rearrangement distance between two sets of ordered and oriented contigs is the minimum weight of applicable rearrangement operations required to transform one set into the other.
+SN  - 1066-5277
+M3  - doi: 10.1089/cmb.2015.0073
+UR  - http://dx.doi.org/10.1089/cmb.2015.0073
+Y2  - 2015/11/08
+ER  - 

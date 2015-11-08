@@ -1,0 +1,883 @@
+Research Articles Nov 2015
+
+   [ ]
+       An Efficient Algorithm for the Contig Ordering Problem under Algebraic
+       Rearrangement Distance No Access
+       Chin Lung Lu
+       Journal of Computational Biology. November 2015, 22(11): 975-987.
+       [78]Abstract | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+   [ ]
+       Comparison of Analytic Methods for Quantitative Real-Time Polymerase
+       Chain Reaction Data No Access
+       Ping Chen, Xuelin Huang
+       Journal of Computational Biology. November 2015, 22(11): 988-996.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Reprints |
+       [88]Permissions | [89]Download Metadata
+   [ ]
+       Inference in High-Dimensional Parameter Space No Access
+       Anthony O'Hare
+       Journal of Computational Biology. November 2015, 22(11): 997-1004.
+       [90]Abstract | [91]Full Text PDF or [92]HTML | [93]Reprints |
+       [94]Permissions | [95]Download Metadata
+   [ ]
+       Biological Data Analysis as an Information Theory Problem:
+       Multivariable Dependence Measures and the Shadows Algorithm free access
+
+       Nikita A. Sakhanenko, David J. Galas
+       Journal of Computational Biology. November 2015, 22(11): 1005-1024.
+       [96]Abstract | [97]Full Text PDF or [98]HTML | [99]Supplementary
+       Material | [100]Reprints | [101]Permissions | [102]Download Metadata
+   [ ]
+       Bayesian Inference for Duplication–Mutation with Complementarity
+       Network Models free access
+       Ajay Jasra, Adam Persing, Alexandros Beskos, Kari Heine, Maria De Iorio
+       Journal of Computational Biology. November 2015, 22(11): 1025-1033.
+       [103]Abstract | [104]Full Text PDF or [105]HTML | [106]Reprints |
+       [107]Permissions | [108]Download Metadata
+   [ ]
+       Statistical Selection Strategy for Risk and Protective Rare Variants
+       Associated with Complex Traits No Access
+       Sera Kim, Kyeongjun Lee, Hokeun Sun
+       Journal of Computational Biology. November 2015, 22(11): 1034-1043.
+       [109]Abstract | [110]Full Text PDF or [111]HTML | [112]Reprints |
+       [113]Permissions | [114]Download Metadata
+   [ ]
+       A Faster 1.375-Approximation Algorithm for Sorting by Transpositions*
+       No Access
+       Luís Felipe I. Cunha, Luis Antonio B. Kowada, Rodrigo de A. Hausen,
+       Celina M.H. de Figueiredo
+       Journal of Computational Biology. November 2015, 22(11): 1044-1056.
+       [115]Abstract | [116]Full Text PDF or [117]HTML | [118]Reprints |
+       [119]Permissions | [120]Download Metadata
+
+Research Articles Oct 2015
+
+   [ ]
+       A Note on the Relations Between Spatio-Genetic Models No Access
+       Yael Baran, Eran Halperin
+       Journal of Computational Biology. October 2015, 22(10): 905-917.
+       [78]Abstract | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+   [ ]
+       Coalescent Histories for Lodgepole Species Trees No Access
+       Filippo Disanto, Noah A. Rosenberg
+       Journal of Computational Biology. October 2015, 22(10): 918-929.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Reprints |
+       [88]Permissions | [89]Download Metadata
+   [ ]
+       A Method for Determining Taxonomical Contributions to Group Differences
+       in Microbiomic Investigations No Access
+       Alexa Pragman, Richard Issacson, Christine Wendt, Cavan Reilly
+       Journal of Computational Biology. October 2015, 22(10): 930-939.
+       [90]Abstract | [91]Full Text PDF or [92]HTML | [93]Reprints |
+       [94]Permissions | [95]Download Metadata
+   [ ]
+       Application of Subspace Clustering in DNA Sequence Analysis free access
+
+       Tim Wallace, Ali Sekmen, Xiaofei Wang
+       Journal of Computational Biology. October 2015, 22(10): 940-952.
+       [96]Abstract | [97]Full Text PDF or [98]HTML | [99]Reprints |
+       [100]Permissions | [101]Download Metadata
+   [ ]
+       A Ranking Approach for Probe Selection and Classification of Microarray
+       Data with Artificial Neural Networks No Access
+       Alexandre Wagner Chagas Faria, Alisson Marques da Silva, Thiago de
+       Souza Rodrigues, Marcelo Azevedo Costa, Antonio Padua Braga
+       Journal of Computational Biology. October 2015, 22(10): 953-961.
+       [102]Abstract | [103]Full Text PDF or [104]HTML | [105]Reprints |
+       [106]Permissions | [107]Download Metadata
+   [ ]
+       Human Papillomavirus Genome-Wide Identification of T-Cell Epitopes for
+       Peptide Vaccine Development Against Cervical Cancer: An Integration of
+       Computational Analysis and Experimental Assay No Access
+       Bo Li, Xianfang Zheng, Chuancui Hu, Yunxia Cao
+       Journal of Computational Biology. October 2015, 22(10): 962-974.
+       [108]Abstract | [109]Full Text PDF or [110]HTML | [111]Supplementary
+       Material | [112]Reprints | [113]Permissions | [114]Download Metadata
+
+Sept 2015
+Special Issue:
+The 7th Computational Structural Bioinformatics Workshop
+Preface
+
+   [ ]
+       The 7th Computational Structural Bioinformatics Workshop No Access
+       Jing He, Amarda Shehu, Nurit Haspel, Brian Chen
+       Journal of Computational Biology. September 2015, 22(9): 785-786.
+       [78]Citation | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+
+Research Articles
+
+   [ ]
+       Computational Analysis of SAXS Data Acquisition No Access
+       Hui Dong, Jin Seob Kim, Gregory S. Chirikjian
+       Journal of Computational Biology. September 2015, 22(9): 787-805.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Reprints |
+       [88]Permissions | [89]Download Metadata
+   [ ]
+       idDock+: Integrating Machine Learning in Probabilistic Search for
+       Protein–Protein Docking No Access
+       Irina Hashmi, Amarda Shehu
+       Journal of Computational Biology. September 2015, 22(9): 806-822.
+       [90]Abstract | [91]Full Text PDF or [92]HTML | [93]Reprints |
+       [94]Permissions | [95]Download Metadata
+   [ ]
+       Decoy Database Improvement for Protein Folding No Access
+       Hsin-Yi (Cindy) Yeh, Aaron Lindsey, Chih-Peng Wu, Shawna Thomas, Nancy
+       M. Amato
+       Journal of Computational Biology. September 2015, 22(9): 823-836.
+       [96]Abstract | [97]Full Text PDF or [98]HTML | [99]Reprints |
+       [100]Permissions | [101]Download Metadata
+   [ ]
+       A Dynamic Programming Algorithm for Finding the Optimal Placement of a
+       Secondary Structure Topology in Cryo-EM Data No Access
+       Abhishek Biswas, Desh Ranjan, Mohammad Zubair, Jing He
+       Journal of Computational Biology. September 2015, 22(9): 837-843.
+       [102]Abstract | [103]Full Text PDF or [104]HTML | [105]Reprints |
+       [106]Permissions | [107]Download Metadata
+   [ ]
+       A Data-Driven Evolutionary Algorithm for Mapping Multibasin Protein
+       Energy Landscapes No Access
+       Rudy Clausen, Amarda Shehu
+       Journal of Computational Biology. September 2015, 22(9): 844-860.
+       [108]Abstract | [109]Full Text PDF or [110]HTML | [111]Reprints |
+       [112]Permissions | [113]Download Metadata
+   [ ]
+       Conformational Sampling Reveals Amino Acids with a Steric Influence on
+       Specificity No Access
+       Ziyi Guo, Brian Yuan Chen
+       Journal of Computational Biology. September 2015, 22(9): 861-875.
+       [114]Abstract | [115]Full Text PDF or [116]HTML | [117]Reprints |
+       [118]Permissions | [119]Download Metadata
+   [ ]
+       Defining the Domain Arrangement of the Mammalian Target of Rapamycin
+       Complex Component Rictor Protein No Access
+       Ping Zhou, Ning Zhang, Ruth Nussinov, Buyong Ma
+       Journal of Computational Biology. September 2015, 22(9): 876-886.
+       [120]Abstract | [121]Full Text PDF or [122]HTML | [123]Reprints |
+       [124]Permissions | [125]Download Metadata
+   [ ]
+       Multiresolution Topological Simplification No Access
+       Kelin Xia, Zhixiong Zhao, Guo-Wei Wei
+       Journal of Computational Biology. September 2015, 22(9): 887-891.
+       [126]Abstract | [127]Full Text PDF or [128]HTML | [129]Reprints |
+       [130]Permissions | [131]Download Metadata
+   [ ]
+       Accurate Prediction of Docked Protein Structure Similarity No Access
+       Bahar Akbal-Delibas, Marc Pomplun, Nurit Haspel
+       Journal of Computational Biology. September 2015, 22(9): 892-904.
+       [132]Abstract | [133]Full Text PDF or [134]HTML | [135]Reprints |
+       [136]Permissions | [137]Download Metadata
+
+
+Research Articles Aug 2015
+
+   [ ]
+       Discovering What Dimensionality Reduction Really Tells Us About RNA-Seq
+       Data free access
+       Sean Simmons, Jian Peng, Jadwiga Bienkowska, Bonnie Berger
+       Journal of Computational Biology. August 2015, 22(8): 715-728.
+       [78]Abstract | [79]Full Text PDF or [80]HTML | [81]Supplementary
+       Material | [82]Reprints | [83]Permissions | [84]Download Metadata
+   [ ]
+       Reduced-Size Integer Linear Programming Models for String Selection
+       Problems: Application to the Farthest String Problem No Access
+       Peter Zörnig
+       Journal of Computational Biology. August 2015, 22(8): 729-742.
+       [85]Abstract | [86]Full Text PDF or [87]HTML | [88]Reprints |
+       [89]Permissions | [90]Download Metadata
+   [ ]
+       Inconsistent Denoising and Clustering Algorithms for Amplicon Sequence
+       Data No Access
+       Kaisa Koskinen, Petri Auvinen, K. Johanna Björkroth, Jenni Hultman
+       Journal of Computational Biology. August 2015, 22(8): 743-751.
+       [91]Abstract | [92]Full Text PDF or [93]HTML | [94]Supplementary
+       Material | [95]Reprints | [96]Permissions | [97]Download Metadata
+   [ ]
+       Medical Reasoning with Rough-Set Influence Diagrams No Access
+       Chia-Hui Huang
+       Journal of Computational Biology. August 2015, 22(8): 752-764.
+       [98]Abstract | [99]Full Text PDF or [100]HTML | [101]Reprints |
+       [102]Permissions | [103]Download Metadata
+   [ ]
+       Modified SuperCurve Method for Analysis of Reverse-Phase Protein Array
+       Data No Access
+       Miao Sun, Dejian Lai, Li Zhang, Xuelin Huang
+       Journal of Computational Biology. August 2015, 22(8): 765-769.
+       [104]Abstract | [105]Full Text PDF or [106]HTML | [107]Reprints |
+       [108]Permissions | [109]Download Metadata
+   [ ]
+       A Fast Numerical Method for Max-Convolution and the Application to
+       Efficient Max-Product Inference in Bayesian Networks No Access
+       Oliver Serang
+       Journal of Computational Biology. August 2015, 22(8): 770-783.
+       [110]Abstract | [111]Full Text PDF or [112]HTML | [113]Reprints |
+       [114]Permissions | [115]Download Metadata
+
+   #[1]RSS - eTOC alert for Journal of Computational Biology [2]RSS -
+   Cited articles
+
+   [3]Skip Navigation
+
+   IFRAME: [4]//www.googletagmanager.com/ns.html?id=GTM-5TSRKG
+
+   [5]Mary Ann Liebert, Inc. publishers
+     * [6]Contact
+     * [7]Support
+     * [8]CART
+
+   ______ [This journal____] (BUTTON) Search
+     * [9]Home
+     * [10]Publications
+          + By Discipline
+               o [11]Biomedical Research
+               o [12]Biotechnology
+               o [13]Clinical Medicine and Surgery
+               o [14]Complementary and Alternative Medicine
+               o [15]Environmental Studies
+               o [16]Education, Law, and Policy
+               o [17]Life Sciences
+               o [18]Neuroscience
+               o [19]Philanthropy
+               o [20]Psychology, Humanities, and Social Sciences
+               o [21]Public Health and Policy
+               o [22]Technology and Engineering
+          + By Type
+               o [23]Journals
+                 (Print/Online)
+               o [24]Journals (Video)
+               o [25]Books
+               o [26]e-Books
+               o [27]Trade Magazines
+               o [28]Newsletters
+               o [29]e-Newsletters
+               o [30]CD-ROMs
+               o
+               o [31]Formerly Published
+                 Titles
+               o
+          + All Publications
+               o [32]A to Z
+     * [33]Resources
+          + [34]Download Publication List
+          + [35]Advertise
+          + [36]For Librarians
+          + [37]Mobile
+          + [38]Screen Savers
+          + [39]Resources
+          + [40]My Liebert Connect
+          + [41]Licensing - Personal Users
+          + [42]Licensing - Institutional
+          + [43]Recommend a Title
+          + [44]Self-Archiving Policy
+          + [45]Open Access
+          + [46]NIH/HHMI Wellcome Trust Policies
+          + [47]Custom Collections
+          + [48]Liebert Author Advocacy Program
+     * [49]Librarians
+     * [50]Press
+     * [51]Advertise
+
+   My Liebert Connect Hello. [52]Sign in to personalize your visit. New
+   user? [53]Register now.
+
+[54][acorn-icon.jpg] Liebert Librarian Resource Center
+
+   Mary Ann Liebert, Inc. is committed to working closely with librarians
+   to create collections of content that fulfill the informational needs
+   of institutions while providing excellent value.
+     * [55]Liebert in Your Library
+     * [56]Programs
+
+     * [57]Journal Collections
+     * [58]Account Support
+
+   [59]Visit
+   [60]Cover for Journal of Computational Biology ______
+   [This journal____] (SEARCH) Search
+   [61]Go to Advanced Search
+
+Publication Tools
+
+     * [62]Help with PDFs
+     * [63]Add to favorites
+     * [64]Email to a colleague
+     * [rss_icon.jpg] [65]TOC Alerts  [66]What is RSS?
+     * [67]Recommend this title to your librarian
+     * [68]Most read articles
+     * [69]Most recently read articles
+     * [70]Most cited articles
+     * [71]Most recently cited articles
+     *
+
+     * [72]About This Journal
+     * [73]Subscribe/Renew
+     * [74]For Authors
+
+Journal of Computational Biology
+
+     * FREE = FREE
+     * Full Access = Full Access
+     * No Access = No Access
+
+     * [75]All Issues
+     * [76]All Issues
+     * [77]Next Issue
+
+   [ ]  Select All
+   Choose an action for your selected articles: [Please Select.._____]
+
+Research Articles
+
+   [ ]
+       The Noncompacted Folding of Proteins by Modified Elastic Net Algorithm
+       No Access
+       Yuzhen Guo
+       Journal of Computational Biology. July 2015, 22(7): 609-618.
+       [78]Abstract | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+   [ ]
+       Combinatorics of RNA Secondary Structures with Base Triples No Access
+       Robert Müller, Markus E. Nebel
+       Journal of Computational Biology. July 2015, 22(7): 619-648.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Supplementary
+       Material | [88]Reprints | [89]Permissions | [90]Download Metadata
+   [ ]
+       Estimation of Tumor Size Evolution Using Particle Filters No Access
+       Jose M.J. Costa, Helcio R.B. Orlande, Haroldo F. Campos Velho, Suani
+       T.R. de Pinho, George S. Dulikravich, Renato M. Cotta, Silvio H. da
+       Cunha Neto
+       Journal of Computational Biology. July 2015, 22(7): 649-665.
+       [91]Abstract | [92]Full Text PDF or [93]HTML | [94]Reprints |
+       [95]Permissions | [96]Download Metadata
+   [ ]
+       A Dynamic Programming Algorithm For (1,2)-Exemplar Breakpoint Distance
+       No Access
+       Zhexue Wei, Daming Zhu, Lusheng Wang
+       Journal of Computational Biology. July 2015, 22(7): 666-676.
+       [97]Abstract | [98]Full Text PDF or [99]HTML | [100]Reprints |
+       [101]Permissions | [102]Download Metadata
+   [ ]
+       A Variation of Cover-Free Families and Its Applications No Access
+       Huilan Chang, Yi-Chang Chiu, Yi-Lin Tsai
+       Journal of Computational Biology. July 2015, 22(7): 677-686.
+       [103]Abstract | [104]Full Text PDF or [105]HTML | [106]Reprints |
+       [107]Permissions | [108]Download Metadata
+   [ ]
+       Node Handprinting: A Scalable and Accurate Algorithm for Aligning
+       Multiple Biological Networks No Access
+       Alex Radu, Michael Charleston
+       Journal of Computational Biology. July 2015, 22(7): 687-697.
+       [109]Abstract | [110]Full Text PDF or [111]HTML | [112]Reprints |
+       [113]Permissions | [114]Download Metadata
+   [ ]
+       A Novel Algorithm for Enhanced Structural Motif Matching in Proteins No
+       Access
+       Florian Kaiser, Alexander Eisold, Dirk Labudde
+       Journal of Computational Biology. July 2015, 22(7): 698-713.
+       [115]Abstract | [116]Full Text PDF or [117]HTML | [118]Supplementary
+       Material | [119]Reprints | [120]Permissions | [121]Download Metadata
+
+   Mary Ann Liebert, Inc. publishers
+
+Resources/Tools
+
+     * [122]Advertise
+     * [123]Custom Collections
+     * [124]Download Publication List
+     * [125]For Librarians
+     * [126]Licensing – Institutional
+     * [127]Licensing – Personal
+     * [128]Liebert Author Advocacy Program
+     * [129]Liebert Open Access Benefits
+     * [130]Mobile Applications
+     * [131]My Liebert (Sign-in/up)
+     * [132]NIH/HHMI Wellcome Trust Policies
+     * [133]Recommend a Title
+     * [134]Screen Savers
+     * [135]Self-Archiving Policy
+
+Subscriptions
+
+     * [136]Change of Address
+     * [137]Collections
+     * [138]Custom Collections
+     * [139]Customer Support
+     * [140]Licensing – Institutional
+     * [141]Licensing – Personal
+     * [142]Recommend a Title
+
+News & Events
+
+     * [143]Company News
+     * [144]Events
+     * [145]Press
+
+Online Access
+
+     * [146]Additional Features
+     * [147]Full Text Papers
+     * [148]Getting Started
+     * [149]Institutional Admin
+     * [150]Searching
+     * [151]User Accounts
+
+Company
+
+     * [152]About Us
+     * [153]Conferences
+     * [154]Contact
+     * [155]Directions
+     * [156]Institute for Professional Education
+     * [157]Privacy Policy
+
+   Technology Partner: [158]Atypon Systems, Inc.
+   Copyright©2012 Mary Ann Liebert, Inc. publishers.  All rights reserved,
+   USA and worldwide.
+   [159]Member CrossRef.org  [160] Counter Compliant
+
+Referenser
+
+   Synliga länkar
+   1. http://online.liebertpub.com/action/showFeed?ui=0&mi=789d8k&ai=rz&jc=cmb&type=etoc&feed=rss
+   2. http://online.liebertpub.com/action/showFeed?ui=0&mi=789d8k&ai=31qn&doi=10.1089/cmb.2015.22.issue-7&type=citrack&feed=rss
+   3. http://online.liebertpub.com/toc/cmb/22/7#PageBodyContainer
+   4. http://www.googletagmanager.com/ns.html?id=GTM-5TSRKG
+   5. http://www.liebertpub.com/
+   6. http://www.liebertpub.com/contactus.aspx
+   7. http://www.liebertpub.com/nv/online-access/getting-started/24/
+   8. http://www.liebertpub.com/Subscribe/ShoppingCart.aspx
+   9. http://www.liebertpub.com/
+  10. http://www.liebertpub.com/publications.aspx
+  11. http://www.liebertpub.com/discipline/biomedical-research/1/
+  12. http://www.liebertpub.com/discipline/biotechnology/2/
+  13. http://www.liebertpub.com/discipline/clinical-medicine-and-surgery/20/
+  14. http://www.liebertpub.com/discipline/complementary-and-alternative-medicine/4/
+  15. http://www.liebertpub.com/discipline/environmental-studies/6/
+  16. http://www.liebertpub.com/discipline/education-law-and-policy/7/
+  17. http://www.liebertpub.com/discipline/life-sciences/13/
+  18. http://www.liebertpub.com/discipline/neuroscience/29/
+  19. http://www.liebertpub.com/discipline/philanthropy/9/
+  20. http://www.liebertpub.com/discipline/psychology-humanities-and-social-sciences/10/
+  21. http://www.liebertpub.com/discipline/public-health-and-policy/11/
+  22. http://www.liebertpub.com/discipline/technology-and-engineering/28
+  23. http://www.liebertpub.com/bytype/journals-print-online/714/
+  24. http://www.liebertpub.com/bytype/journal-video/715/
+  25. http://www.liebertpub.com/bytype/books/716/
+  26. http://www.liebertpub.com/bytype/e-books/720/
+  27. http://www.liebertpub.com/bytype/trade-magazines/718/
+  28. http://www.liebertpub.com/bytype/newsletters/719/
+  29. http://www.liebertpub.com/bytype/e-newsletters/721/
+  30. http://www.liebertpub.com/bytype/cd-roms/722/
+  31. http://www.liebertpub.com/lpages/formerly-published-titles/17/
+  32. http://www.liebertpub.com/publications.aspx
+  33. http://online.liebertpub.com/toc/cmb/22/7
+  34. http://www.liebertpub.com/mcontent/files/2012 MALPubCat.pdf
+  35. http://www.liebertpub.com/nv/resources-tools/advertise/10/
+  36. http://www.liebertpub.com/nv/librarians/getting-started/30/
+  37. https://online.liebertpub.com/action/mobileDevicePairingRequest
+  38. http://www.liebertpub.com/mcontent/files/Liebert_Screen_Saver.zip
+  39. http://www.liebertpub.com/nv/librarians/resources/34/
+  40. http://www.liebertpub.com/nv/resources-tools/my-liebert-sign-in-up/9/
+  41. http://www.liebertpub.com/nv/subscriptions/licensing--personal/17/
+  42. http://www.liebertpub.com/nv/subscriptions/licensing--institutional/18/
+  43. http://www.liebertpub.com/recommendlibrary.aspx
+  44. http://www.liebertpub.com/nv/resources-tools/self-archiving-policy/51/
+  45. http://www.liebertpub.com/nv/resources-tools/openaccess/44/
+  46. http://www.liebertpub.com/nv/resources-tools/nih-hhmi-wellcome-trust-policies/50/
+  47. http://www.liebertpub.com/customcollections.aspx
+  48. http://www.liebertpub.com/nv/resources-tools/liebert-author-advocacy-program/64/
+  49. http://www.liebertpub.com/libraries
+  50. http://www.liebertpub.com/press.aspx
+  51. http://www.liebertpub.com/nv/resources-tools/advertise/10/
+  52. http://online.liebertpub.com/action/showLogin?uri=/toc/cmb/22/7
+  53. http://online.liebertpub.com/action/registration
+  54. http://www.liebertpub.com/libraries
+  55. http://www.liebertpub.com/libraries/our_journals#600
+  56. http://www.liebertpub.com/libraries/for_libraries
+  57. http://www.liebertpub.com/libraries/our_journals#601
+  58. http://www.liebertpub.com/libraries/your_account
+  59. http://www.liebertpub.com/libraries
+  60. http://online.liebertpub.com/action/showLargeCover?issue=40345067
+  61. http://online.liebertpub.com/search/advanced
+  62. http://online.liebertpub.com/support?context=PDF
+  63. http://online.liebertpub.com/personalize/addFavoritePublication?journalCode=cmb
+  64. http://online.liebertpub.com/action/showMailPage?href=/toc/cmb/22/7&title=Journal+of+Computational+Biology
+  65. http://online.liebertpub.com/action/showFeed?ui=0&mi=789d8k&ai=rz&jc=cmb&type=etoc&feed=rss
+  66. http://online.liebertpub.com/support?context=Rss
+  67. http://www.liebertpub.com/library/cmb
+  68. http://online.liebertpub.com/action/showMostReadArticles?journalCode=cmb
+  69. http://online.liebertpub.com/action/showMostReadArticles?topArticlesType=month&journalCode=cmb
+  70. http://online.liebertpub.com/action/showMostCitedArticles?journalCode=cmb
+  71. http://online.liebertpub.com/action/showMostCitedArticles?topArticlesType=recent&journalCode=cmb
+  72. http://www.liebertpub.com/cmb
+  73. http://www.liebertpub.com/action/ecommerce/cmb
+  74. http://www.liebertpub.com/manuscript/cmb
+  75. http://online.liebertpub.com/loi/cmb
+  76. http://online.liebertpub.com/toc/cmb/22/6
+  77. http://online.liebertpub.com/toc/cmb/22/8
+  78. http://online.liebertpub.com/doi/abs/10.1089/cmb.2012.0290
+  79. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2012.0290
+  80. http://online.liebertpub.com/doi/full/10.1089/cmb.2012.0290
+  81. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=10&issn=1066-5277&endPage=618&startPage=609&contentID=10.1089%2Fcmb.2012.0290&publication=cmb&author=Yuzhen+Guo&title=The+Noncompacted+Folding+of+Proteins+by+Modified+Elastic+Net+Algorithm&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  82. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=10&issn=1066-5277&endPage=618&startPage=609&contentID=10.1089%2Fcmb.2012.0290&publication=cmb&author=Yuzhen+Guo&title=The+Noncompacted+Folding+of+Proteins+by+Modified+Elastic+Net+Algorithm&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  83. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2012.0290
+  84. http://online.liebertpub.com/doi/abs/10.1089/cmb.2013.0022
+  85. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2013.0022
+  86. http://online.liebertpub.com/doi/full/10.1089/cmb.2013.0022
+  87. http://online.liebertpub.com/doi/suppl/10.1089/cmb.2013.0022
+  88. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=30&issn=1066-5277&endPage=648&startPage=619&contentID=10.1089%2Fcmb.2013.0022&publication=cmb&author=Robert+M%C3%BCller%2C+Markus+E.+Nebel&title=Combinatorics+of+RNA+Secondary+Structures+with+Base+Triples&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  89. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=30&issn=1066-5277&endPage=648&startPage=619&contentID=10.1089%2Fcmb.2013.0022&publication=cmb&author=Robert+M%C3%BCller%2C+Markus+E.+Nebel&title=Combinatorics+of+RNA+Secondary+Structures+with+Base+Triples&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  90. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2013.0022
+  91. http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0003
+  92. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2014.0003
+  93. http://online.liebertpub.com/doi/full/10.1089/cmb.2014.0003
+  94. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=17&issn=1066-5277&endPage=665&startPage=649&contentID=10.1089%2Fcmb.2014.0003&publication=cmb&author=Jose+M.J.+Costa%2C+Helcio+R.B.+Orlande%2C+Haroldo+F.+Campos+Velho%2C+et+al&title=Estimation+of+Tumor+Size+Evolution+Using+Particle+Filters&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  95. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=17&issn=1066-5277&endPage=665&startPage=649&contentID=10.1089%2Fcmb.2014.0003&publication=cmb&author=Jose+M.J.+Costa%2C+Helcio+R.B.+Orlande%2C+Haroldo+F.+Campos+Velho%2C+et+al&title=Estimation+of+Tumor+Size+Evolution+Using+Particle+Filters&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+  96. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2014.0003
+  97. http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0200
+  98. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2014.0200
+  99. http://online.liebertpub.com/doi/full/10.1089/cmb.2014.0200
+ 100. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=11&issn=1066-5277&endPage=676&startPage=666&contentID=10.1089%2Fcmb.2014.0200&publication=cmb&author=Zhexue+Wei%2C+Daming+Zhu%2C+Lusheng+Wang&title=A+Dynamic+Programming+Algorithm+For+%281%2C2%29-Exemplar+Breakpoint+Distance&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 101. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=11&issn=1066-5277&endPage=676&startPage=666&contentID=10.1089%2Fcmb.2014.0200&publication=cmb&author=Zhexue+Wei%2C+Daming+Zhu%2C+Lusheng+Wang&title=A+Dynamic+Programming+Algorithm+For+%281%2C2%29-Exemplar+Breakpoint+Distance&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 102. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2014.0200
+ 103. http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0222
+ 104. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2014.0222
+ 105. http://online.liebertpub.com/doi/full/10.1089/cmb.2014.0222
+ 106. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=10&issn=1066-5277&endPage=686&startPage=677&contentID=10.1089%2Fcmb.2014.0222&publication=cmb&author=Huilan+Chang%2C+Yi-Chang+Chiu%2C+Yi-Lin+Tsai&title=A+Variation+of+Cover-Free+Families+and+Its+Applications&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 107. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=10&issn=1066-5277&endPage=686&startPage=677&contentID=10.1089%2Fcmb.2014.0222&publication=cmb&author=Huilan+Chang%2C+Yi-Chang+Chiu%2C+Yi-Lin+Tsai&title=A+Variation+of+Cover-Free+Families+and+Its+Applications&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 108. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2014.0222
+ 109. http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0247
+ 110. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2014.0247
+ 111. http://online.liebertpub.com/doi/full/10.1089/cmb.2014.0247
+ 112. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=11&issn=1066-5277&endPage=697&startPage=687&contentID=10.1089%2Fcmb.2014.0247&publication=cmb&author=Alex+Radu%2C+Michael+Charleston&title=Node+Handprinting%3A+A+Scalable+and+Accurate+Algorithm+for+Aligning+Multiple+Biological+Networks&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 113. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=11&issn=1066-5277&endPage=697&startPage=687&contentID=10.1089%2Fcmb.2014.0247&publication=cmb&author=Alex+Radu%2C+Michael+Charleston&title=Node+Handprinting%3A+A+Scalable+and+Accurate+Algorithm+for+Aligning+Multiple+Biological+Networks&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 114. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2014.0247
+ 115. http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0263
+ 116. http://online.liebertpub.com/doi/pdfplus/10.1089/cmb.2014.0263
+ 117. http://online.liebertpub.com/doi/full/10.1089/cmb.2014.0263
+ 118. http://online.liebertpub.com/doi/suppl/10.1089/cmb.2014.0263
+ 119. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=y&pageCount=16&issn=1066-5277&endPage=713&startPage=698&contentID=10.1089%2Fcmb.2014.0263&publication=cmb&author=Florian+Kaiser%2C+Alexander+Eisold%2C+Dirk+Labudde&title=A+Novel+Algorithm+for+Enhanced+Structural+Motif+Matching+in+Proteins&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 120. http://online.liebertpub.com/servlet/linkout?type=rightslink&url=rpt=n&pageCount=16&issn=1066-5277&endPage=713&startPage=698&contentID=10.1089%2Fcmb.2014.0263&publication=cmb&author=Florian+Kaiser%2C+Alexander+Eisold%2C+Dirk+Labudde&title=A+Novel+Algorithm+for+Enhanced+Structural+Motif+Matching+in+Proteins&orderBeanReset=true&color=true&imprint=Mary+Ann+Liebert%2C+Inc.%2C+publishers&publisherName=MaryAnnLiebert&volumeNum=22&issueNum=7&publicationDate=07%2F01%2F2015
+ 121. http://online.liebertpub.com/action/showCitFormats?doi=10.1089/cmb.2014.0263
+ 122. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/advertise/10/&loc=/toc/cmb/22/7&pubId=40345067
+ 123. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/customcollections.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 124. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/mcontent/files/2012%20MALPubCat.pdf&loc=/toc/cmb/22/7&pubId=40345067
+ 125. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/librarians/getting-started/30/&loc=/toc/cmb/22/7&pubId=40345067
+ 126. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/subscriptions/licensing--institutional/18/&loc=/toc/cmb/22/7&pubId=40345067
+ 127. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/subscriptions/licensing--personal/17/&loc=/toc/cmb/22/7&pubId=40345067
+ 128. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/liebert-author-advocacy-program/64/&loc=/toc/cmb/22/7&pubId=40345067
+ 129. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/openaccess/44/&loc=/toc/cmb/22/7&pubId=40345067
+ 130. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/l4m/&loc=/toc/cmb/22/7&pubId=40345067
+ 131. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/my-liebert-sign-in-up/9/&loc=/toc/cmb/22/7&pubId=40345067
+ 132. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/nih-hhmi-wellcome-trust-policies/50/&loc=/toc/cmb/22/7&pubId=40345067
+ 133. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/recommendlibrary.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 134. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/screen-savers&loc=/toc/cmb/22/7&pubId=40345067
+ 135. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/resources-tools/self-archiving-policy/51/&loc=/toc/cmb/22/7&pubId=40345067
+ 136. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/changeofaddress.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 137. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/collections/show-more/46/&loc=/toc/cmb/22/7&pubId=40345067
+ 138. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/customcollections.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 139. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/getting-started/30/&loc=/toc/cmb/22/7&pubId=40345067
+ 140. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/subscriptions/licensing--institutional/18/&loc=/toc/cmb/22/7&pubId=40345067
+ 141. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/subscriptions/licensing--personal/17/&loc=/toc/cmb/22/7&pubId=40345067
+ 142. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/recommend-a-title&loc=/toc/cmb/22/7&pubId=40345067
+ 143. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/companynews.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 144. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/events.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 145. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/press.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 146. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/additional-features/28/&loc=/toc/cmb/22/7&pubId=40345067
+ 147. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/full-text-papers/26/&loc=/toc/cmb/22/7&pubId=40345067
+ 148. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/getting-started/24/&loc=/toc/cmb/22/7&pubId=40345067
+ 149. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/institutional-admin/29/&loc=/toc/cmb/22/7&pubId=40345067
+ 150. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/searching/27/&loc=/toc/cmb/22/7&pubId=40345067
+ 151. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/online-access/user-accounts/25/&loc=/toc/cmb/22/7&pubId=40345067
+ 152. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/company/about-us/1/&loc=/toc/cmb/22/7&pubId=40345067
+ 153. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.bioconferences.com&loc=/toc/cmb/22/7&pubId=40345067
+ 154. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/contactus.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 155. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/directions.aspx&loc=/toc/cmb/22/7&pubId=40345067
+ 156. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/company/institute-for-professional-education/5/&loc=/toc/cmb/22/7&pubId=40345067
+ 157. http://online.liebertpub.com/action/clickThrough?id=1948&url=http://www.liebertpub.com/nv/company/privacy-policy/3/&loc=/toc/cmb/22/7&pubId=40345067
+ 158. http://www.atypon.com/
+ 159. http://www.crossref.org/
+ 160. http://www.projectcounter.org/
+
+   Dolda länkar:
+ 162. http://www.liebertpub.com/bytype/society-memberships/725/
+ 163. http://www.liebertpub.com/libraries/our_journals#92
+ 164. http://online.liebertpub.com/toc/cmb/22/7#PageBodyContainer
+ 165. http://online.liebertpub.com/doi/pdf/10.1046/9999-9999.99999
+   #[1]RSS - eTOC alert for Journal of Computational Biology [2]RSS -
+   Cited articles
+
+   [3]Skip Navigation
+
+   IFRAME: [4]//www.googletagmanager.com/ns.html?id=GTM-5TSRKG
+
+   [5]Mary Ann Liebert, Inc. publishers
+     * [6]Contact
+     * [7]Support
+     * [8]CART
+
+   ______ [This journal____] (BUTTON) Search
+     * [9]Home
+     * [10]Publications
+          + By Discipline
+               o [11]Biomedical Research
+               o [12]Biotechnology
+               o [13]Clinical Medicine and Surgery
+               o [14]Complementary and Alternative Medicine
+               o [15]Environmental Studies
+               o [16]Education, Law, and Policy
+               o [17]Life Sciences
+               o [18]Neuroscience
+               o [19]Philanthropy
+               o [20]Psychology, Humanities, and Social Sciences
+               o [21]Public Health and Policy
+               o [22]Technology and Engineering
+          + By Type
+               o [23]Journals
+                 (Print/Online)
+               o [24]Journals (Video)
+               o [25]Books
+               o [26]e-Books
+               o [27]Trade Magazines
+               o [28]Newsletters
+               o [29]e-Newsletters
+               o [30]CD-ROMs
+               o
+               o [31]Formerly Published
+                 Titles
+               o
+          + All Publications
+               o [32]A to Z
+     * [33]Resources
+          + [34]Download Publication List
+          + [35]Advertise
+          + [36]For Librarians
+          + [37]Mobile
+          + [38]Screen Savers
+          + [39]Resources
+          + [40]My Liebert Connect
+          + [41]Licensing - Personal Users
+          + [42]Licensing - Institutional
+          + [43]Recommend a Title
+          + [44]Self-Archiving Policy
+          + [45]Open Access
+          + [46]NIH/HHMI Wellcome Trust Policies
+          + [47]Custom Collections
+          + [48]Liebert Author Advocacy Program
+     * [49]Librarians
+     * [50]Press
+     * [51]Advertise
+
+   My Liebert Connect Hello. [52]Sign in to personalize your visit. New
+   user? [53]Register now.
+
+[54][acorn-icon.jpg] Liebert Librarian Resource Center
+
+   Mary Ann Liebert, Inc. is committed to working closely with librarians
+   to create collections of content that fulfill the informational needs
+   of institutions while providing excellent value.
+     * [55]Liebert in Your Library
+     * [56]Programs
+
+     * [57]Journal Collections
+     * [58]Account Support
+
+   [59]Visit
+   [60]Cover for Journal of Computational Biology ______
+   [This journal____] (SEARCH) Search
+   [61]Go to Advanced Search
+
+Publication Tools
+
+     * [62]Help with PDFs
+     * [63]Add to favorites
+     * [64]Email to a colleague
+     * [rss_icon.jpg] [65]TOC Alerts  [66]What is RSS?
+     * [67]Recommend this title to your librarian
+     * [68]Most read articles
+     * [69]Most recently read articles
+     * [70]Most cited articles
+     * [71]Most recently cited articles
+     *
+
+     * [72]About This Journal
+     * [73]Subscribe/Renew
+     * [74]For Authors
+
+Journal of Computational Biology
+
+     * FREE = FREE
+     * Full Access = Full Access
+     * No Access = No Access
+
+     * [75]All Issues
+     * [76]All Issues
+     * [77]Next Issue
+
+   [ ]  Select All
+   Choose an action for your selected articles: [Please Select.._____]
+
+RECOMB 2014: Part 2 of 2
+Guest Editor: Roded Sharan
+Research Articles
+
+   [ ]
+       Exact Learning of RNA Energy Parameters From Structure No Access
+       Hamidreza Chitsaz, Mohammad Aminisharifabad
+       Journal of Computational Biology. June 2015, 22(6): 463-473.
+       [78]Abstract | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+   [ ]
+       Learning Sequence Determinants of Protein:Protein Interaction
+       Specificity with Sparse Graphical Models No Access
+       Hetunandan Kamisetty, Bornika Ghosh, Christopher James Langmead, Chris
+       Bailey-Kellogg
+       Journal of Computational Biology. June 2015, 22(6): 474-486.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Reprints |
+       [88]Permissions | [89]Download Metadata
+   [ ]
+       On Sufficient Statistics of Least-Squares Superposition of Vector Sets
+       No Access
+       Arun S. Konagurthu, Parthan Kasarapu, Lloyd Allison, James H. Collier,
+       Arthur M. Lesk
+       Journal of Computational Biology. June 2015, 22(6): 487-497.
+       [90]Abstract | [91]Full Text PDF or [92]HTML | [93]Reprints |
+       [94]Permissions | [95]Download Metadata
+   [ ]
+       WhatsHap: Weighted Haplotype Assembly for Future-Generation Sequencing
+       Reads No Access
+       Murray Patterson, Tobias Marschall, Nadia Pisanti, Leo van Iersel, Leen
+       Stougie, Gunnar W. Klau, Alexander Schönhuth
+       Journal of Computational Biology. June 2015, 22(6): 498-509.
+       [96]Abstract | [97]Full Text PDF or [98]HTML | [99]Supplementary
+       Material | [100]Reprints | [101]Permissions | [102]Download Metadata
+   [ ]
+       Simultaneous Inference of Cancer Pathways and Tumor Progression from
+       Cross-Sectional Mutation Data No Access
+       Benjamin J. Raphael, Fabio Vandin
+       Journal of Computational Biology. June 2015, 22(6): 510-527.
+       [103]Abstract | [104]Full Text PDF or [105]HTML | [106]Reprints |
+       [107]Permissions | [108]Download Metadata
+   [ ]
+       dipSPAdes: Assembler for Highly Polymorphic Diploid Genomes No Access
+       Yana Safonova, Anton Bankevich, Pavel A. Pevzner
+       Journal of Computational Biology. June 2015, 22(6): 528-545.
+       [109]Abstract | [110]Full Text PDF or [111]HTML | [112]Reprints |
+       [113]Permissions | [114]Download Metadata
+   [ ]
+       Correlated Protein Function Prediction via Maximization of
+       Data-Knowledge Consistency No Access
+       Hua Wang, Heng Huang, Chris Ding
+       Journal of Computational Biology. June 2015, 22(6): 546-562.
+       [115]Abstract | [116]Full Text PDF or [117]HTML | [118]Reprints |
+       [119]Permissions | [120]Download Metadata
+   [ ]
+       Gene–Gene Interactions Detection Using a Two-stage Model No Access
+       Zhanyong Wang, Jae Hoon Sul, Sagi Snir, Jose A. Lozano, Eleazar Eskin
+       Journal of Computational Biology. June 2015, 22(6): 563-576.
+       [121]Abstract | [122]Full Text PDF or [123]HTML | [124]Reprints |
+       [125]Permissions | [126]Download Metadata
+   [ ]
+       Reconstructing Breakage Fusion Bridge Architectures Using Noisy Copy
+       Numbers No Access
+       Shay Zakov, Vineet Bafna
+       Journal of Computational Biology. June 2015, 22(6): 577-594.
+       [127]Abstract | [128]Full Text PDF or [129]HTML | [130]Reprints |
+       [131]Permissions | [132]Download Metadata
+   [ ]
+       Data Imputation in Epistatic MAPs by Network-Guided Matrix Completion
+       No Access
+       Marinka Žitnik, Blaž Zupan
+       Journal of Computational Biology. June 2015, 22(6): 595-608.
+       [133]Abstract | [134]Full Text PDF or [135]HTML | [136]Reprints |
+       [137]Permissions | [138]Download Metadata
+
+May 2015
+RECOMB 2014: Part 1 of 2
+Guest Editor: Roded Sharan
+Preface
+
+   [ ]
+       Preface No Access
+       Roded Sharan
+       Journal of Computational Biology. May 2015, 22(5): 335-335.
+       [78]Citation | [79]Full Text PDF or [80]HTML | [81]Reprints |
+       [82]Permissions | [83]Download Metadata
+
+Research Articles
+
+   [ ]
+       On the Representation of De Bruijn Graphs No Access
+       Rayan Chikhi, Antoine Limasset, Shaun Jackman, Jared T. Simpson, Paul
+       Medvedev
+       Journal of Computational Biology. May 2015, 22(5): 336-352.
+       [84]Abstract | [85]Full Text PDF or [86]HTML | [87]Reprints |
+       [88]Permissions | [89]Download Metadata
+   [ ]
+       The Generating Function Approach for Peptide Identification in Spectral
+       Networks No Access
+       Adrian Guthals, Christina Boucher, Nuno Bandeira
+       Journal of Computational Biology. May 2015, 22(5): 353-366.
+       [90]Abstract | [91]Full Text PDF or [92]HTML | [93]Reprints |
+       [94]Permissions | [95]Download Metadata
+   [ ]
+       IDBA-MTP: A Hybrid Metatranscriptomic Assembler Based on Protein
+       Information No Access
+       Henry C.M. Leung, Siu-Ming Yiu, Francis Y.L. Chin
+       Journal of Computational Biology. May 2015, 22(5): 367-376.
+       [96]Abstract | [97]Full Text PDF or [98]HTML | [99]Reprints |
+       [100]Permissions | [101]Download Metadata
+   [ ]
+       PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and
+       Amino-Acid Sequences No Access
+       Siavash Mirarab, Nam Nguyen, Sheng Guo, Li-San Wang, Junhyong Kim,
+       Tandy Warnow
+       Journal of Computational Biology. May 2015, 22(5): 377-386.
+       [102]Abstract | [103]Full Text PDF or [104]HTML | [105]Supplementary
+       Material | [106]Reprints | [107]Permissions | [108]Download Metadata
+   [ ]
+       Building a Pan-Genome Reference for a Population No Access
+       Ngan Nguyen, Glenn Hickey, Daniel R. Zerbino, Brian Raney, Dent Earl,
+       Joel Armstrong, W. James Kent, David Haussler, Benedict Paten
+       Journal of Computational Biology. May 2015, 22(5): 387-401.
+       [109]Abstract | [110]Full Text PDF or [111]HTML | [112]Supplementary
+       Material | [113]Reprints | [114]Permissions | [115]Download Metadata
+   [ ]
+       CSAX: Characterizing Systematic Anomalies in eXpression Data free
+       access
+       Keith Noto, Saeed Majidi, Andrea G. Edlow, Heather C. Wick, Diana W.
+       Bianchi, Donna K. Slonim
+       Journal of Computational Biology. May 2015, 22(5): 402-413.
+       [116]Abstract | [117]Full Text PDF or [118]HTML | [119]Supplementary
+       Material | [120]Reprints | [121]Permissions | [122]Download Metadata
+   [ ]
+       Fast Flux Module Detection Using Matroid Theory No Access
+       Arne C. Reimers, Frank J. Bruggeman, Brett G. Olivier, Leen Stougie
+       Journal of Computational Biology. May 2015, 22(5): 414-424.
+       [123]Abstract | [124]Full Text PDF or [125]HTML | [126]Supplementary
+       Material | [127]Reprints | [128]Permissions | [129]Download Metadata
+   [ ]
+       An Exact Algorithm to Compute the Double-Cut-and-Join Distance for
+       Genomes with Duplicate Genes No Access
+       Mingfu Shao, Yu Lin, Bernard M.E. Moret
+       Journal of Computational Biology. May 2015, 22(5): 425-435.
+       [130]Abstract | [131]Full Text PDF or [132]HTML | [133]Reprints |
+       [134]Permissions | [135]Download Metadata
+   [ ]
+       A Geometric Clustering Algorithm with Applications to Structural Data
+       free access
+       Shutan Xu, Shuxue Zou, Lincong Wang
+       Journal of Computational Biology. May 2015, 22(5): 436-450.
+       [136]Abstract | [137]Full Text PDF or [138]HTML | [139]Supplementary
+       Material | [140]Reprints | [141]Permissions | [142]Download Metadata
+   [ ]
+       A Spatial Haplotype Copying Model with Applications to Genotype
+       Imputation No Access
+       Wen-Yun Yang, Farhad Hormozdiari, Eleazar Eskin, Bogdan Pasaniuc
+       Journal of Computational Biology. May 2015, 22(5): 451-462.
+       [143]Abstract | [144]Full Text PDF or [145]HTML | [146]Reprints |
+       [147]Permissions | [148]Download Metadata
+
