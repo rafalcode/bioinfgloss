@@ -5,7 +5,7 @@ A tentative glossary of terms used within bioinformatics. Many of these are biol
 E
 
 Effective population size:
-Simply put: the number of individuals that achieve repdocutive success.
+Simply put: the number of individuals that achieve reproductive success in a population.
 
 
 I
@@ -23,6 +23,12 @@ The molecular unit of heredity. It's not amiss to say that the definition, thoug
 
 * Gene Expression Profiling
 This allows identification of the type of cell from which the mRNA was extracted. Depending on the certain locations and role, certain genes will be off, and will produce no mRNA. They will therefore not be detected in RNAseq, although they may be detected in mRNA from other cells, it depends on t he experiment.
+
+* Gene Expression Abundance Estimation
+This should be about quantifying which genes are highly expressed, and (in many ways, by implication) genes which are lowly expressed or simply switched off.
+
+* Genotype:
+The available genetic code for an organism as given in its DNA. It's not too inaccurate to say that it forms the blueprint for the activities that the organism will comprise, though this is quite a big simpification too. It's perhaps easier to say that the genotype is the recipe for the proteins that the organism will consist of, and these protein will do all work. It's worthwhile to point out that blueprints are often merely plans, and also consist of bare instructions. There is a strong similarity too, to a computer program which has not yet been executed. WHen the genotype is executed, or in other senses, exercised, a phenotype results.
 
 T
 
