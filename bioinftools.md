@@ -1,4 +1,15 @@
 
+B
+
+* Bowtie:
+An aligner. Clearly this is version 1 of Bowtie, and should, like many other versions of programs which have been superceded by later versions, be deprecated in favour of Bowtie2. However, it is not entirely deprecated which, though uncommon, is hardly a exception to the rule. This is most often due the speed and agility of the less sophisticated version, and its treatment of certain cases which the newer version of the program is more awkward with. In summary, there are certain cases, when it may be more beneficial to run this version 1 of Bowtie.
+
+* Bowtie2
+Second version of the Bowtie aligner. A common invocation:
+bowtie2 -x indexes/e_coli -U simulated_reads/sim_reads.fq -S alignments/sim_reads_aligned.sam
+Note the "-x" for index. This illustrates in fact the second stage of the alignment process because the first stage is the indexing of the reference genome. Bowtie2 will also index, but often this is not shown because it is assumed that the user knows that indexing is very often necessary.
+
+
 * Eigensoft
 Probably the most popular tool for PCA analysis, this consists of "smartpca" which does the main PCA analysis and also "eigenstrat" which takes into account the population structure.
 
