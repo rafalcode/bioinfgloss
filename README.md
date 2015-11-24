@@ -11,16 +11,28 @@ A "matching up" of one, two or more sequences in order to expose their similarit
 
 E
 
-Effective population size:
+* Effective population size:
 Simply put: the number of individuals that achieve reproductive success in a population.
 
-Evolution:
+* Evolution:
+The manner in which change comes about in biological species over long periods of time. Note that it is not simply "mere change" because that could be chaotic, after all. There is clearly some organization to evolution, which necessarily must be self-organization if we want to exclude any external beings. Evolution can also be said to take place in non-biological entities too, like rounded pebbles on the shore (but never spherical, why not? Discuss.) and the meandering of rivers. Events occur within other events, and so are circumscribed by them
 
+
+G
+
+* Gene regulation:
+This if often called upon to explain phenomena which occur outside of the instructions provided by an individual''s exome.
+
+* Genotype:
+The particular genetic sequence that an individual can be made up of. If there is only a single copy, then the individual is haploid, and only gener regulation can get int he way of 
+
+* Genotyping:
+Here we have the verbal equivalent of the word gento
 
 I
 
 * Infinite sites model:
-A term that dates from pre-sequencing days, which officially is defined as "Each gene is made of a sequence of sites, and each time a mutation occurs, it affects a site that was previously unaffected". Essentially this means that the number of mutations will be at least the number of sites affected, and never less. In other words, given a time period, mutations will not hit the same site twice (or more times) ever. And, in further words it means that each mutation will have its own site, and therefore mutation sites are unique. Itäs one of the common simplifcations that are often used, similar to, say, the random mating assumption.
+A term that dates from pre-sequencing days, which officially is defined as "Each gene is made of a sequence of sites, and each time a mutation occurs, it affects a site that was previously unaffected". Essentially this means that the number of mutations will be at least the number of sites affected, and never less. In other words, given a time period, mutations will not hit the same site twice (or more times) ever. And, in further words it means that each mutation will have its own site, and therefore mutation sites are unique. It's one of the common simplifications that are often used, similar to, say, the random mating assumption. So it's meant to make your life easier, but, if you don't understand what it means, it won't do. The naming of this term is not very apparent, but it must be remembered that by "model" we probably mean a mutation model, and the opened-ended nature of this assumption means that the mutations can be infinite. That's more or less it!
 
 * Insert (of paired short reads)
 As part of the sequencing technology, fragments of DNA yield two short reads, one from either end. The insert, or also insert size, is the difference between the ends of both reads. So if the reads are 90bp, and the insert size is 200bp, you can assume that the fragment was 380bp long.
@@ -43,6 +55,17 @@ L
 
 * Luria-Delbrück experiment
 A famous experiment which established considerable weight for the mechanism of evolution via spontaneous random mutations. It is in fact, a rather simple experiment, both biologically, and indeed mathematically, but its central effect can sometimes seem elusive. Cultures of ecoli are allowed develop and then presented with a killer phage that kills all of them. No, not all of them. Similarly to the Asterix village in Goscinny and Uderzo's famous comic, a small amount survive and expand because they happen to have developed immunity to the phage ( this also a good example of a selective sweep). The central question is, is this immunity due to a reaction to the phage, or is it due to a prior mutation which accidentally occured before the phage was ever introduced? The conclusion of the experiment is the latter.
+
+
+P
+
+* Pooling samples
+Though examining inter-sample variance is the usual aspiration, sometimes a good, and faster course-of-action is to lump them altogether in a group as a pool. Lump sounds too amateurish, so the word used is pool, suggesting that some thought goes into it, which it may do indeed.
+
+R
+
+* RNA-seq
+Has become somewhat of an umbrella (unfocused) term, but in narrower terms it's a method of sequencing coding DNA, because RNA does not include non-coding regions, and furthermore this only represents DNA which has been expressed, so RNAseq is very dependent on the type of tissue the samples came from. This last fact is often omitted, and this could be for several reasons. Often samples from various tissues of interest and are then pooled together. Also the tissue of interest may already be in the context of the study. For example when the neurology or nervous system of an organism is of principle interest, it should be assumed that that is where the RNAseq mostly comes from, and one is especially interested in finding movel genes there.
 
 S
 
