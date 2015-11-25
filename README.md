@@ -51,6 +51,12 @@ This should be about quantifying which genes are highly expressed, and (in many 
 * Genotype:
 The available genetic code for an organism as given in its DNA. It's not too inaccurate to say that it forms the blueprint for the activities that the organism will comprise, though this is quite a big simpification too. It's perhaps easier to say that the genotype is the recipe for the proteins that the organism will consist of, and these protein will do all work. It's worthwhile to point out that blueprints are often merely plans, and also consist of bare instructions. There is a strong similarity too, to a computer program which has not yet been executed. WHen the genotype is executed, or in other senses, exercised, a phenotype results.
 
+I
+
+* Isoform:
+Speaking clearly, this is one of the alternatively spliced forms of a certain gene. Speaking unclearly, well it can be anything you want really. This link backs this tight definition up: http://seqanswers.com/forums/showthread.php?t=42925
+
+
 L
 
 * Luria-Delbrück experiment
@@ -83,3 +89,5 @@ Very established tool often used by default by everyone for identifying tandem r
 * Tajima's D
 A statistic giving information on the amount of variation in DNA from individuals (usually of a population). In an alignment of DNA from several individuals, the actual pairwise differences in nucleotides at each position is calculated, this is theta. Then pi, the number of expected differences is calculated from the number of segregating, or variant, sites, and this is subtracted from theta. If the answer is negative, it means we have below average variation, given the number of segregating sites. If this this happens to be substantially negative, it may suggest a selective sweep and give us information about the history of the population. It's worthwhile that variation can occur along two parameters here: via the number of segregating sites, and the amount of variation within those sites. As is common in statistical measures, Tajima's D lump both of these together.
 
+Transcript:
+This word can be used quite loosely, but it's really an expressed sequence, something obtained via -hopefully- some sort of assembly of RNAseq reads.
