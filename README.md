@@ -27,7 +27,7 @@ This if often called upon to explain phenomena which occur outside of the instru
 The particular genetic sequence that an individual can be made up of. If there is only a single copy, then the individual is haploid, and only gener regulation can get int he way of 
 
 * Genotyping:
-Here we have the verbal equivalent of the word gento
+Here we have the verbal equivalent of the word genotype, and it has several strings to its proverbial bow. It's mostly about diploids and working out what an individual is coded for at a particular locus. The simplest and very common genotype is for a SNP, so it's a question of find ing out whther the individual is AA, aa (and so, homozygous) or Aa, heterozygosity. But it's by no means the only type of genotypization (I'm sure that word does not exist) that can occur. I won't elaborate on these others.
 
 I
 
