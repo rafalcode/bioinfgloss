@@ -23,6 +23,14 @@ G
 * Gene regulation:
 This if often called upon to explain phenomena which occur outside of the instructions provided by an individual''s exome.
 
+* Genetic marker:
+In general terms a marker is an indicator of a location. Typically, but not necessarily, it is found at the location itself, and renders it visible somehow. The location is of interest because of some event that occurs there. Somewhat circularily, the occurence of the event is often the visual marker itself. As an isolated event, there is not much value associated with such a marker. The value is found however when the relative location of markers can be compared. This somewhat vaporous definition is due to the large expanse of DNA that genomes represent, and the ability of "events" to act as rough signposts. so this manner of using such events as signposts is legitimised by calling them markers.
+
+Seeing as my deinfition is somewhat awkward, I'll defer to an alternative, more concrete one on the NHGRI website (genome.gov), courtesy of Belen Hurle: "A genetic marker is a DNA sequence with a known physical location on a chromosome. Genetic markers can help link an inherited disease with the responsible gene. DNA segments close to each other on a chromosome tend to be inherited together. Genetic markers are used to track the inheritance of a nearby gene that has not yet been identified, but whose approximate location is known. The genetic marker itself may be a part of a gene or may have no known function."
+
+You'll see that those definitions do tie in well together. However, the general tone of these definitions may invite suspicion that there are a wide variety of markers, and this is quite true. An RLFP is a marker, as is a microsatellite, as is an SNP. An SNP is probably the simplest, a single locus, which by some method has more than one possible allele: i.e. a polymorphism.
+
+
 * Genotype:
 The particular genetic sequence that an individual can be made up of. If there is only a single copy, then the individual is haploid, and only gener regulation can get int he way of 
 
