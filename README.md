@@ -2,12 +2,17 @@
 
 A tentative glossary of terms used within bioinformatics. Many of these are biology and genetics terms, and indeed there are plenty places on the internet to read their definitions, but because their nature is somewhat looser than the way computational terms are defined, the following includes accounting for this lack of tight meaning-to-word binding by at least admitting it exists.
 
+It should be noted that tight and authoritative bioinformatics glossaries are thin on the ground, and where they exist, they can be a bit light. For comparison, take a look at the mighty NCBI's glossary here: https://www.ncbi.nlm.nih.gov/books/NBK470040/
 
 A
 
 * Alignment:
 A "matching up" of one, two or more sequences in order to expose their similarity, and, by the same token, their differences. In the special case of a one sequence alignment, this concerns matching it with itself, a case which will give different results simply because there are different alignment algorithms and scoring methods. It is hard to overestimate the importance of alignments in bioinformatics, a fact which occasionally gets challenged in the shape of "alignment-free" algorithms. Much of this importance is due to the fact that the concept of variation is an extremely necessary one within evolution, and variation needs an alignment in order to manifest itself.
 
+D
+
+* Dosage:
+This word is problematic as of course it is used very often in related disciplines and in medicine in general, why in bioinformatics, i.e. in data of a biological nature, it is considerable more specific, it is often used as way of encoding alleles at a particularly genomic position, i.e. a SNP locus, especially when one would like to associate a probablility to the position rather than declaring it outright. So it inserts a floating point number in the [0-2] range, whereby 0.0 is for homozygosity on the major allele, 1.0 is for heterozygosity and 2.0 for homozygosity on the minor allele. Something like 0.75 would then mean, the SNP is mostly likely a heterogeneous locus, with a small probability of still being homozygous for the major allele.
 
 E
 
@@ -97,5 +102,5 @@ Very established tool often used by default by everyone for identifying tandem r
 * Tajima's D
 A statistic giving information on the amount of variation in DNA from individuals (usually of a population). In an alignment of DNA from several individuals, the actual pairwise differences in nucleotides at each position is calculated, this is theta. Then pi, the number of expected differences is calculated from the number of segregating, or variant, sites, and this is subtracted from theta. If the answer is negative, it means we have below average variation, given the number of segregating sites. If this this happens to be substantially negative, it may suggest a selective sweep and give us information about the history of the population. It's worthwhile that variation can occur along two parameters here: via the number of segregating sites, and the amount of variation within those sites. As is common in statistical measures, Tajima's D lump both of these together.
 
-Transcript:
+* Transcript:
 This word can be used quite loosely, but it's really an expressed sequence, something obtained via -hopefully- some sort of assembly of RNAseq reads.
